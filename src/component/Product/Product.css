@@ -1,0 +1,21 @@
+.productss {
+    margin: 5px;
+    display: flex;
+
+}
+
+.productss img {
+    height: 250px;
+    border-radius: 40px;
+    border: 2px solid brown;
+}
+
+.product-btn {
+    background-color: brown;
+    width: 150px;
+    font-size: 15px;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    border: 2px solid goldenrod;
+}
